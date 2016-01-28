@@ -1,6 +1,6 @@
 {
   "name": "gulp-guide-page-generator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a guide page generator for gulp",
   "main": "index.js",
   "scripts": {

@@ -43,7 +43,7 @@ Guide page title.
 Type: `string`
 Default: `./pages-guide.html`
 
-Guide page template, e.g: [pages-guide.html](https://github.com/obingo/gulp-guide-page-generator/blob/master/pages-guide.html).
+Guide page template, e.g: [pages-guide.html](./pages-guide.html).
 
 ##### filename
 
