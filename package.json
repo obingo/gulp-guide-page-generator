@@ -1,0 +1,28 @@
+{
+  "name": "gulp-guide-page-generator",
+  "version": "1.0.0",
+  "description": "a guide page generator for gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obingo/gulp-guide-page-generator.git"
+  },
+  "keywords": [
+    "gulp",
+    "guide-page",
+    "generator"
+  ],
+  "author": {
+    "name": "xsbchen"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/obingo/gulp-guide-page-generator/issues"
+  },
+  "homepage": "https://github.com/obingo/gulp-guide-page-generator",
+  "dependencies": {
+  }
+}
