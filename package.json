@@ -1,6 +1,6 @@
 {
   "name": "gulp-guide-page-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a guide page generator for gulp",
   "main": "index.js",
   "scripts": {
@@ -24,5 +24,8 @@
   },
   "homepage": "https://github.com/obingo/gulp-guide-page-generator",
   "dependencies": {
+    "lodash.template": "^4.0.1",
+    "through2": "^2.0.0",
+    "vinyl": "^1.1.1"
   }
 }

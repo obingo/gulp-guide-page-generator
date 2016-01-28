@@ -7,6 +7,7 @@ var gpg = require('./index.js');
 
 gulp.task('default', function () {
   return gulp.src('test/**')
+    .pipe(gulp.dest('dist'))
     .pipe(gpg())
     .pipe(debug())
     .pipe(gulp.dest('dist'))
